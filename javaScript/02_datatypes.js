@@ -21,5 +21,4 @@ undifined => NaN
 
 
 // premitive data types : string , number , null, boolean , undefined, symbol, bigint
-//
 //non premitive : array , objects , functions
