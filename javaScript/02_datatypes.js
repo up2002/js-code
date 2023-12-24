@@ -1,8 +1,8 @@
-let score = "22hi"
+//let score = "22hi"
 // console.log(typeof score)
 // console.log(typeof (score))
 
-let valueInNumber = Number(score)
+//let valueInNumber = Number(score)
 // console.log(typeof valueInNumber)
 // console.log((valueInNumber))
 /*
@@ -18,3 +18,8 @@ undifined => NaN
 // console.log(negValue)
 // console.log("1" + 2 + 2)
 // console.log(1+2+"2");
+
+
+// premitive data types : string , number , null, boolean , undefined, symbol, bigint
+//
+//non premitive : array , objects , functions
