@@ -32,10 +32,13 @@ console.log("A ", myArr);
 const myn1 = myArr.slice(1, 3)
 
 console.log(myn1);
-console.log("B ", myArr);
+//output will be [1,2] the slice method will be give the ans b/w index
+ console.log("B ", myArr);
 
 // when you are use splice method then your original array is changed becuse those part will be removed in the array 
 
 const myn2 = myArr.splice(1, 3)
-console.log("C ", myArr);
 console.log(myn2);
+// output [1,2,3] the output will be in the starting index and end index 
+// console.log("C ", myArr);
+// console.log(myn2);
